@@ -1,8 +1,8 @@
 
 #EXTM3U
-
+https://dtvott-cbc.akamaized.net/dash_live_1229/manifest.mpd
 #EXTINF:-1,fox 
-
+https://dtvott-cbc.akamaized.net/dash_live_1229/dash/1229_TNT_SERIES-textstream_567017474_spa=8000-1672979271787.dash
 #EXTINF:-1,fox accion
 
 #EXTINF:-1,hbo2
