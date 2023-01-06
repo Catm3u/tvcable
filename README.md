@@ -38,7 +38,8 @@
 
 #EXTINF:-1,24/7 futurama
 
-#EXTINF:-1,24/7 dragon ball super
+#EXTINF:-1,24/7  miami tv
+https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/chunklist_w777857761.m3u8
 
 
 
